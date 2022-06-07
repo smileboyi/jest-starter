@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getUserById 可以获取 userId == 1 的用户 1`] = `
+Object {
+  "params": Object {
+    "id": "1",
+  },
+}
+`;
